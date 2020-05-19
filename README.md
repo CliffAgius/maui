@@ -51,8 +51,8 @@ Active development is happening today to build Android and iOS SDKs against the 
 |Renderers     |Tightly coupled to BindableObject         |Loosely coupled, no Core dependencies         |
 |App Models     |MVVM, RxUI         |MVVM, RxUI, MVU, Blazor         |
 |Single Project     |No         |Yes         |
-|Multi-targeting     |No         |Yes         |
-|Multi-window     |No         |Yes         |
+|Multi-targeting     |YES         |Yes         |
+|Multi-window     |YES         |Yes         |
 |**Misc**     |         |         |
 |.NET     |Xamarin.iOS, Xamarin.Android, Mono, .NET Framework, ...         |.NET 6+         |
 |Acquisition |NuGet & Visual Studio Installer |dotnet |
